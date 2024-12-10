@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this test, please cite it as below."
+authors:
+  - family-names: Unger
+    given-names: Reimar 
+    orcid: https://orcid.org/0000-0002-5984-5812
+title: "Test for Zenodo"
+version: 0.0.1 alpha
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.tbd
+date-released: 2024-12-10
